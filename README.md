@@ -8,14 +8,14 @@ by https://github.com/keyboardsurfer/idea-live-templates. Kudos go to the reposi
 ## Installation
 
 - Find the [live templates location](https://www.jetbrains.com/help/idea/2016.2/live-templates.html) for your IntelliJ IDE version
-- `cd` into that location, run `git clone https://github.com/gridonic/idea-live-templates.git gridonic`
-- Copy all `.xml` files from the cloned repository into the `templates` folder `cp gridonic/*.xml .`
+- `cd` into that location, run `git clone https://github.com/inventage/idea-live-templates.git inventage`
+- Copy all `.xml` files from the cloned repository into the `templates` folder `cp inventage/*.xml .`
 - Restart your IDE
 
 ## Update
 
 - `cd` into your [live templates location](https://www.jetbrains.com/help/idea/2016.2/live-templates.html)
-- Run `cd gridonic; git pull; cp *.xml ../; cd ..`
+- Run `cd inventage; git pull; cp *.xml ../; cd ..`
 - Restart your IDE
 
 ## Included live templates
