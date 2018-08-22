@@ -7,14 +7,14 @@ by https://github.com/keyboardsurfer/idea-live-templates. Kudos go to the reposi
 
 ## Installation
 
-- Find the [live templates location](https://www.jetbrains.com/help/idea/2016.2/live-templates.html) for your IntelliJ IDE version
+- Find the [live templates location](https://www.jetbrains.com/help/idea/using-live-templates.html) for your IntelliJ IDE version
 - `cd` into that location, run `git clone https://github.com/inventage/idea-live-templates.git inventage`
 - Copy all `.xml` files from the cloned repository into the `templates` folder `cp inventage/*.xml .`
 - Restart your IDE
 
 ## Update
 
-- `cd` into your [live templates location](https://www.jetbrains.com/help/idea/2016.2/live-templates.html)
+- `cd` into your [live templates location](https://www.jetbrains.com/help/idea/using-live-templates.html)
 - Run `cd inventage; git pull; cp *.xml ../; cd ..`
 - Restart your IDE
 
