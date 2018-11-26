@@ -1,5 +1,5 @@
 <templateSet group="InventageTwig">
-  <template name="trans" value="{{ '$END$'|trans }}" description="Twig `trans` shortcut" toReformat="false" toShortenFQNames="true">
+  <template name="trans" value="{{ '$END$'|trans }}" description="Twig `trans` shortcut" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Twig" value="true" />
     </context>
